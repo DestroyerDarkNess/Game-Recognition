@@ -15,4 +15,4 @@ Disadvantages:
 
 Gif of what I have so far:
 
-![](name-of-giphy.gif)
+![](https://s5.gifyu.com/images/TestIA_Game_Reconozing.md.gif)
