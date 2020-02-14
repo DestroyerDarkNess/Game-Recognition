@@ -15,4 +15,4 @@ Disadvantages:
 
 Gif of what I have so far:
 
-![](https://gifyu.com/image/7qy0)
+![Alt Text](https://s5.gifyu.com/images/TestIA_Game_Reconozing.gif)
